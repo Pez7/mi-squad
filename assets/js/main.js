@@ -1,4 +1,5 @@
 function Miembro (nombre,edad,hobb1,hobb2,hobb3){
+	
 		this.nombre = nombre;
 		this.edad = edad;
 		this.hobb1 = hobb1;
